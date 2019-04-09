@@ -1,0 +1,16 @@
+{% extends 'vidstream_app/base.html' %}
+{% load staticfiles %}
+
+{% block index %}
+
+	<form method="post" enctype="multipart/form-data">
+		{% csrf_token %}
+		<input type="file" name="document">
+		<br>
+		<button class="btn btn-primary" type="submit">upload</button>
+		<br>
+		<p>Uploaded file:<a href="{{url}} " >{{ url }} </a>
+		
+	</form>
+
+{% endblock %}
