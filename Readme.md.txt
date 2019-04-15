@@ -9,8 +9,8 @@
 ## Step 6:$python manage.py runserver 0.0.0.0:8000
 
 ### App set up
-## open app folder 
-## open vidstream folder in android studio 
-## locate 2 funtions jsonurl and jsonparse
-## change ip address to global ip of your system($ip addr show - try out the ips there)
-## install apk on phone
+## Step 1: open app folder 
+## Step 2: open vidstream folder in android studio 
+## Step 3: locate 2 funtions jsonurl and jsonparse
+## Step 4: change ip address to global ip of your system($ip addr show - try out the ips there)
+## Step 5: install apk on phone
