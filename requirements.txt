@@ -1,0 +1,6 @@
+configparser==3.7.4
+Django==2.2
+mysqlclient==1.4.2.post1
+pkg-resources==0.0.0
+pytz==2018.9
+sqlparse==0.3.0

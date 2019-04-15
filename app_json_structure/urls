@@ -1,6 +1,0 @@
-http://192.168.250.1:8000/vidstream/get_vid_names/ -getlist
-
-http://192.168.250.1:8000/vidstream/get_vid/2    -geturl
-
-
-192.168.43.17 -wifi ip
