@@ -1,4 +1,4 @@
-### Server set up
+# Server set up
 ## Step 1:Clone the Repo
 ### (Before continuing change pwd to Vidstream)
 ## Step 2:Create virtual environment : $virtualenv -p python3 env
@@ -8,7 +8,7 @@
 ## Step 6:$python manage.py migrate 
 ## Step 6:$python manage.py runserver 0.0.0.0:8000
 
-### App set up
+# App set up
 ## Step 1: open app folder 
 ## Step 2: open vidstream folder in android studio 
 ## Step 3: locate 2 funtions jsonurl and jsonparse
