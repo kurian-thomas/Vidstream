@@ -1,3 +1,7 @@
+#VidStream - video streaming app
+
+## play App_demo.mp4 in app folder
+
 # Server set up
 ## Step 1:Clone the Repo
 ### (Before continuing change pwd to vidstream)
