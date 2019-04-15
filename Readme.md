@@ -1,4 +1,4 @@
-#VidStream - video streaming app
+# VidStream - video streaming app
 
 ## play App_demo.mp4 in app folder
 
